@@ -4,4 +4,4 @@ import "./js/home.js";
 import "./js/about.js";
 import "./js/contacts.js";
 
-import "./js/footer";
+// import "./js/footer";
