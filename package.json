@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/SvetlanaKhvastova/webpack-base/issues"
   },
-  "homepage": "https://github.com/SvetlanaKhvastova/webpack-base#readme",
+  "homepage": "https://svetlanakhvastova.github.io/webpack-base/",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
